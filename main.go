@@ -14,4 +14,6 @@ func main() {
 	fmt.Println(problem3Result)
 	problem4Result := problems.FindLargestPalindrome()
 	fmt.Println(problem4Result)
+	problem5Result := problems.FindSmallestMultipy()
+	fmt.Println(problem5Result)
 }
