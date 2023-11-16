@@ -12,4 +12,6 @@ func main() {
 	fmt.Println(problem2Result)
 	problem3Result := problems.FindLargestPrimeNumber(600851475143)
 	fmt.Println(problem3Result)
+	problem4Result := problems.FindLargestPalindrome()
+	fmt.Println(problem4Result)
 }
